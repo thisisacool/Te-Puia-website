@@ -115,3 +115,36 @@ h5 {
 .gallerylink {
     text-align: center;
 }
+
+.titlelink1 {
+    
+background-color: rgb(7, 73, 73);
+color: white;
+padding: 15px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+      
+}
+
+.titlelink2 {
+    
+    background-color: rgb(7, 73, 73);
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+          
+}
+
+.titlelink3 {
+    
+    background-color: rgb(7, 73, 73);
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+          
+}
