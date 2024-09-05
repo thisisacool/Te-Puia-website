@@ -69,8 +69,8 @@ footer {
 .parent {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 3;
-    grid-column-gap: 0px;
+    grid-template-rows: 54ic;
+    grid-column-gap: 5px;
     grid-row-gap: 0px;
     }
 
